@@ -36,7 +36,7 @@ This stage is when a new ticket is created. Two common ways in which tickets can
 <p>
 <h2>Stage 2: Assignment</h2>
 <p> 
-Once the ticket has been submitted, the ticket can be assigned to an IT professional. in our case, the properly handled the ticket, information regarding the level of severity has been changed. The Priority was changed to “Emergency,” the SLA Plan was changed to “SEV-A,” and the Department was changed to “System Administrators.” The ticket was also assigned to “Jane Doe,” who is an administrator.
+Once the ticket has been submitted, the ticket can be assigned to an IT professional. In our case, the properly handled the ticket, information regarding the level of severity has been changed. The Priority was changed to “Emergency,” the SLA Plan was changed to “SEV-A,” and the Department was changed to “System Administrators.” The ticket was also assigned to “Jane Doe,” who is an administrator.
 </p> 
 <img src="https://i.imgur.com/StzNVXh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/RRhx3j5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
