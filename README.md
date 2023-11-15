@@ -50,7 +50,7 @@ Now that the ticket has been assigned to the appropriate department and people, 
 </p>
 <h2>Stage 4: Resolution</h2>
 <p> 
-When the issue has been resolved, the ticket can be closed. Now the ticket will move from the Open section to the Closed section. Trying to get into the habit of browing closed tickets, since they can be a library to find solutions to open tickets.
+When the issue has been resolved, the ticket can be closed. Now the ticket will move from the Open section to the Closed section. Trying to get into the habit of browsing closed tickets, since they can be a library to find solutions to open tickets.
 </p> 
 
 <br>
