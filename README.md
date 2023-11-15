@@ -30,6 +30,7 @@ We will essentialy show here how we can work in osTicket system as a profesional
 
 Go to portal, sign in and open a new ticket as a customer.
 <p>
+  <img src="https://forum.osticket.com/assets/files/2019-07-29/1564416247-939072-screenshot-2019-07-29-at-230001.png">
 This stage is when a new ticket is created. Two common ways in which tickets can be submitted is through a form – such as the one shown here – or by emailing an email address that is designated for tickets. In this form, the user/customer provides their contact information, the topic/issue, and details about the issue.
 </p>
 <p>
